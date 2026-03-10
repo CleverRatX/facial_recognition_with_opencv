@@ -1,1 +1,1 @@
-# facial_recognition_with_opencv
+# Распознавание лиц с помощью OpenCV
